@@ -52,7 +52,8 @@ body {
   margin-block: 4rem;
 }
 .container {
-  inline-size: min(69.375rem, 100% - 3rem);
+  min-inline-size: 20.5rem;
+  inline-size: min(69.375rem, 100% - 2rem);
   margin-inline: auto;
 }
 
