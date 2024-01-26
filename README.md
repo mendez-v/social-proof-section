@@ -35,7 +35,7 @@ Users should be able to:
 
 [Live site](https://mendez-v.github.io/social-proof-section/) 👀
 
-<!-- [Solution in Frontend Mentor](https://your-solution-url.com) 👀 -->
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-Hh96QLRwBa) 👀
 
 [Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
